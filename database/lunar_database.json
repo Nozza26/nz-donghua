@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T18:11:40Z",
+  "updatedAt": "2026-11-19T18:45:58Z",
   "customDonghuaList": [
     {
       "id": 199410,
@@ -44,10 +44,30 @@
   },
   "customSubtitles": {
     "137822": {
-      "1": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_1.vtt?v=1795111892",
-      "2": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_2.vtt?v=1795111895",
-      "3": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_3.vtt?v=1795111898",
-      "4": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_4.vtt?v=1795111900"
+      "1": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_1.vtt?v=1795113898",
+      "2": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_2.vtt?v=1795113901",
+      "3": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_3.vtt?v=1795113904",
+      "4": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_4.vtt?v=1795113907",
+      "5": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_5.vtt?v=1795113909",
+      "6": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_6.vtt?v=1795113912",
+      "7": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_7.vtt?v=1795113915",
+      "8": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_8.vtt?v=1795113917",
+      "9": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_9.vtt?v=1795113920",
+      "10": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_10.vtt?v=1795113923",
+      "11": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_11.vtt?v=1795113925",
+      "12": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_12.vtt?v=1795113928",
+      "13": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_13.vtt?v=1795113930",
+      "14": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_14.vtt?v=1795113933",
+      "15": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_15.vtt?v=1795113936",
+      "16": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_16.vtt?v=1795113939",
+      "17": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_17.vtt?v=1795113941",
+      "18": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_18.vtt?v=1795113944",
+      "19": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_19.vtt?v=1795113946",
+      "20": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_20.vtt?v=1795113948",
+      "21": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_21.vtt?v=1795113951",
+      "22": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_22.vtt?v=1795113953",
+      "23": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_23.vtt?v=1795113955",
+      "24": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_24.vtt?v=1795113958"
     }
   }
 }
