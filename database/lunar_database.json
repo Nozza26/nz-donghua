@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T17:13:04Z",
+  "updatedAt": "2026-11-19T18:07:42Z",
   "customDonghuaList": [
     {
       "id": 199410,
@@ -44,8 +44,9 @@
   },
   "customSubtitles": {
     "137822": {
-      "1": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_1.vtt?v=1795108379",
-      "2": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_2.vtt?v=1795108381"
+      "1": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_1.vtt?v=1795111656",
+      "2": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_2.vtt?v=1795111659",
+      "3": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_3.vtt?v=1795111661"
     }
   }
 }
