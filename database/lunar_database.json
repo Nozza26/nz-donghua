@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T16:14:45Z",
+  "updatedAt": "2026-11-19T17:10:05Z",
   "customDonghuaList": [
     {
       "id": 199410,
@@ -14,7 +14,7 @@
       "averageScore": 73,
       "seasonYear": 2026,
       "status": "RELEASING",
-      "episodes": 26,
+      "episodes": 2,
       "countryOfOrigin": "CN",
       "genres": [
         "Action",
@@ -42,34 +42,5 @@
       ]
     }
   },
-  "customSubtitles": {
-    "269": {},
-    "20": {},
-    "137822": {
-      "1": "https://files.catbox.moe/z78f9v.vtt",
-      "2": "https://files.catbox.moe/hjfvkp.vtt",
-      "3": "https://files.catbox.moe/djsfhl.vtt",
-      "4": "https://files.catbox.moe/jrd8o4.vtt",
-      "5": "https://files.catbox.moe/530fcc.vtt",
-      "6": "https://files.catbox.moe/lcc9fl.vtt",
-      "7": "https://files.catbox.moe/429ly1.vtt",
-      "8": "https://files.catbox.moe/irlknc.vtt",
-      "9": "https://files.catbox.moe/wcbenr.vtt",
-      "10": "https://files.catbox.moe/64ljhm.vtt",
-      "11": "https://files.catbox.moe/wmh79b.vtt",
-      "12": "https://files.catbox.moe/0tmpc7.vtt",
-      "13": "https://files.catbox.moe/knvu2r.vtt",
-      "14": "https://files.catbox.moe/v4t90x.vtt",
-      "15": "https://files.catbox.moe/abkoq1.vtt",
-      "16": "https://files.catbox.moe/i1o0kt.vtt",
-      "17": "https://files.catbox.moe/q78tjh.vtt",
-      "18": "https://files.catbox.moe/aj6fn3.vtt",
-      "19": "https://files.catbox.moe/rljfk7.vtt",
-      "20": "https://files.catbox.moe/ku8ha4.vtt",
-      "21": "https://files.catbox.moe/dmrdrd.vtt",
-      "22": "https://files.catbox.moe/52alyb.vtt",
-      "23": "https://files.catbox.moe/bwo9tk.vtt",
-      "24": "https://files.catbox.moe/cfm4fq.vtt"
-    }
-  }
+  "customSubtitles": {}
 }
