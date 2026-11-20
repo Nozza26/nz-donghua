@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T01:12:36Z",
+  "updatedAt": "2026-11-20T01:13:24Z",
   "customDonghuaList": [
     {
       "id": 199410,
@@ -70,7 +70,7 @@
       "24": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_24.vtt?v=1795113958"
     },
     "16498": {
-      "1": "https://files.catbox.moe/ut25ca.vtt"
+      "1": "https://files.catbox.moe/kgajvn.vtt"
     }
   }
 }
