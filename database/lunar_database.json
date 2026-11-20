@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T06:06:33Z",
+  "updatedAt": "2026-11-20T06:09:10Z",
   "customDonghuaList": [
     {
       "id": 199410,
@@ -97,7 +97,8 @@
       "25": "https://files.catbox.moe/s66acu.vtt"
     },
     "20958": {
-      "1": "https://files.catbox.moe/9bjmv6.vtt"
+      "1": "https://files.catbox.moe/9bjmv6.vtt",
+      "2": "https://files.catbox.moe/r04rl4.vtt"
     }
   }
 }
