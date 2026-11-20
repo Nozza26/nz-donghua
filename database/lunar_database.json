@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T01:13:24Z",
+  "updatedAt": "2026-11-20T01:17:25Z",
   "customDonghuaList": [
     {
       "id": 199410,
@@ -70,7 +70,31 @@
       "24": "https://raw.githubusercontent.com/Nozza26/nz-donghua/main/137822/ep_24.vtt?v=1795113958"
     },
     "16498": {
-      "1": "https://files.catbox.moe/kgajvn.vtt"
+      "1": "https://files.catbox.moe/kgajvn.vtt",
+      "2": "https://files.catbox.moe/ctczb3.vtt",
+      "3": "https://files.catbox.moe/rlpggh.vtt",
+      "4": "https://files.catbox.moe/yrxzwx.vtt",
+      "5": "https://files.catbox.moe/9294oc.vtt",
+      "6": "https://files.catbox.moe/amxh6b.vtt",
+      "7": "https://files.catbox.moe/1t7kz2.vtt",
+      "8": "https://files.catbox.moe/n8xjoo.vtt",
+      "9": "https://files.catbox.moe/lvj5vn.vtt",
+      "10": "https://files.catbox.moe/cezsqj.vtt",
+      "11": "https://files.catbox.moe/l0nc26.vtt",
+      "12": "https://files.catbox.moe/2rmi5f.vtt",
+      "13": "https://files.catbox.moe/eke7y3.vtt",
+      "14": "https://files.catbox.moe/o5sybc.vtt",
+      "15": "https://files.catbox.moe/3fm0go.vtt",
+      "16": "https://files.catbox.moe/d5o7dq.vtt",
+      "17": "https://files.catbox.moe/zth8e5.vtt",
+      "18": "https://files.catbox.moe/raeudn.vtt",
+      "19": "https://files.catbox.moe/tdwo50.vtt",
+      "20": "https://files.catbox.moe/g0h8qg.vtt",
+      "21": "https://files.catbox.moe/x1qssu.vtt",
+      "22": "https://files.catbox.moe/24jnet.vtt",
+      "23": "https://files.catbox.moe/s1f94i.vtt",
+      "24": "https://files.catbox.moe/ryu1sk.vtt",
+      "25": "https://files.catbox.moe/s66acu.vtt"
     }
   }
 }
