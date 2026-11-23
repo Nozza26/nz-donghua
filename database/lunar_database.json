@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T06:53:53Z",
+  "updatedAt": "2026-11-23T04:41:31Z",
   "customDonghuaList": [
     {
       "id": 199410,
@@ -39,6 +39,15 @@
         "https://ok.ru/videoembed/12048410675908?autoplay=1",
         "https://player.abyssplayer.com/TW0JzGlOr",
         "https://rumble.com/embed/v745qty/?pub=2luv79"
+      ]
+    },
+    "206273": {
+      "1": [
+        "https://ok.ru/videoembed/17666411268804?autoplay=1",
+        "https://player.abyssplayer.com/CZ8zZa-vi",
+        "https://rumble.com/embed/v7gl0vq/?pub=2luv79",
+        "https://vk.ru/video471500713_456239017",
+        "https://t.me/nozhuadonghua/118"
       ]
     }
   },
