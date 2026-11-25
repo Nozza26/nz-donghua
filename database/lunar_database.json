@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T09:21:44Z",
+  "updatedAt": "2026-11-25T09:36:50Z",
   "customDonghuaList": [
     {
       "id": 206273,
@@ -87,6 +87,7 @@
         "https://vk.com/video_ext.php?oid=471500713&id=456239019&hash=aa80c654d00dae42&autoplay=1"
       ],
       "3": [
+        "https://ok.ru/videoembed/17700367960772?autoplay=1",
         "https://rumble.com/embed/v7gphbc/?pub=2luv79"
       ]
     }
