@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T10:55:49Z",
+  "updatedAt": "2026-11-25T11:27:34Z",
   "customDonghuaList": [
     {
       "id": 206273,
@@ -25,7 +25,7 @@
         "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206273-pqQ1tDkDILJi.jpg"
       },
       "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206273-pqQ1tDkDILJi.jpg",
-      "updatedAt": "2026-11-25T10:55:49Z",
+      "updatedAt": "2026-11-25T11:27:34Z",
       "subEpisodes": 4,
       "bangumiId": 516426,
       "name": "Yi Zhan Cangqiong",
@@ -97,7 +97,8 @@
       "4": [
         "https://ok.ru/videoembed/17702199233220?autoplay=1",
         "https://player.abyssplayer.com/8D3H6Dkk2",
-        "https://rumble.com/embed/v7gpl6o/?pub=2luv79"
+        "https://rumble.com/embed/v7gpl6o/?pub=2luv79",
+        "https://vk.com/video_ext.php?oid=471500713&id=456239024&hash=fe40d68aa15ccf48&autoplay=1"
       ]
     }
   },
